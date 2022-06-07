@@ -2,7 +2,7 @@ import {proxy, snapshot, subscribe, useSnapshot} from "valtio";
 import {createRandomTodo, TodoState} from "../model/todo";
 
 
-export const todosState = proxy<TodoState>({
+const todosState = proxy<TodoState>({
     todos: [
         {
             name: 'First todo',
