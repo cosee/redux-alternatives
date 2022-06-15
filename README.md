@@ -54,6 +54,7 @@ Website: https://github.com/pmndrs/valtio#readme
 * Uses [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) to create reactive state
   (not supported by IE)
 * State can just be used like a plain object (`state.value = 3`) and subscribers are called
+* Appearently supports Redux dev-tools (I don't know if zustand does this as well. Recoil has it's own dev-tools)
 * Easy to use
 * My favorite
 
