@@ -59,3 +59,17 @@ Website: https://github.com/pmndrs/valtio#readme
 * My favorite
 
 
+# Update 2024
+
+More alternatives:
+
+## [Nanostores](https://github.com/nanostores/nanostores)
+
+* Highlight: Supports multiple frameworks (vue, react, solid) through adapaters
+
+
+
+
+
+
+
